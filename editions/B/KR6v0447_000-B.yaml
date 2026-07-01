@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0447/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 初學題額集
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0185.xml
+    old_id: B32n0185
+hash: sha256:435c23e84c3675fefaf160d5791055ad6beb4c1da8df547bb70d981252feac3d

@@ -1,0 +1,213 @@
+canonical_identifier: bkk:krp/KR6v0447/v1
+canonical_location: https://kanripo.org/bkk/KR6v0447/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 初學題額集
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0185.xml
+    old_id: B32n0185
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0447_000.yaml, hash: 'sha256:435c23e84c3675fefaf160d5791055ad6beb4c1da8df547bb70d981252feac3d'}
+  - {seq: 1, filename: KR6v0447_001.yaml, hash: 'sha256:6646b8d436868ff5c8705e9268b50aed199f76b5138e58099d88beca070eea49'}
+  - {seq: 2, filename: KR6v0447_002.yaml, hash: 'sha256:a6564679b56690ee655521a9d345a7b105962bc52500cb4c1f5f8b4c134db548'}
+  - {seq: 3, filename: KR6v0447_003.yaml, hash: 'sha256:6df952a37d1b6bae26fec14d4468815b991d4b50b21209589411d38d2faa8864'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0447_001.markers.yaml, hash: 'sha256:20a669ff0c2cf4be34dd4d4d2cdde4d51db30e038aa56211a77541ea3049dc5e'}
+  - {seq: 2, role: markers, filename: assets/KR6v0447_002.markers.yaml, hash: 'sha256:20378658fd54277313bbfc70cb26da9bff48ed815d0f5b8d99d20d368d0a2948'}
+  - {seq: 3, role: markers, filename: assets/KR6v0447_003.markers.yaml, hash: 'sha256:2e73b8e0ec959f63816b6ea1d829859377db135884e238d3181d67cbca555947'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 26857
+  label: 106初學題額集上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-2
+    span:
+    - body
+    - 416
+    - 416
+  label: 三國緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-3
+    span:
+    - body
+    - 15722
+    - 15722
+  label: 淨家題名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 24632
+  label: 初學題額集中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 華嚴宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-2
+    span:
+    - body
+    - 4386
+    - 4386
+  label: 天台宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-3
+    span:
+    - body
+    - 8955
+    - 8955
+  label: 三論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-4
+    span:
+    - body
+    - 12484
+    - 12484
+  label: 法相宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-5
+    span:
+    - body
+    - 23522
+    - 23522
+  label: 地論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-6
+    span:
+    - body
+    - 24223
+    - 24223
+  label: 攝論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 28453
+  label: 初學題額集下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大乘律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-2
+    span:
+    - body
+    - 2618
+    - 2618
+  label: 真言宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-3
+    span:
+    - body
+    - 6927
+    - 6927
+  label: 成實宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-4
+    span:
+    - body
+    - 7757
+    - 7757
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-5
+    span:
+    - body
+    - 18462
+    - 18462
+  label: 四分律
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-6
+    span:
+    - body
+    - 25322
+    - 25322
+  label: 題額集別紙
+  type: mulu
+  level: 1
+hash: sha256:590a162e91dc7139a07b914ae358fd3dbdc7ef503cdd8a024bf3805c00bdeb46
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

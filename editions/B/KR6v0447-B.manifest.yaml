@@ -1,0 +1,212 @@
+canonical_identifier: bkk:krp/KR6v0447/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0447/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 初學題額集
+  identifiers:
+    krp: KR6v0447
+    cbeta: B32n0185
+    cbeta_old_id: B32n0185
+    authorityid: CA0006271
+    json_key: B0185
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0185.xml
+    old_id: B32n0185
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0447_000-B.yaml, hash: 'sha256:435c23e84c3675fefaf160d5791055ad6beb4c1da8df547bb70d981252feac3d'}
+  - {seq: 1, filename: KR6v0447_001-B.yaml, hash: 'sha256:65d394a05594d310f832e9a6b39abd50ba948eb4737cba4dd4da000553af71b1'}
+  - {seq: 2, filename: KR6v0447_002-B.yaml, hash: 'sha256:3564745f96e51fb6a5c2409d4a08d5630da651b64ffdbf0d49008b8e91a3804b'}
+  - {seq: 3, filename: KR6v0447_003-B.yaml, hash: 'sha256:e2ac37ed2ac5dbda72008866adf04bbcf2194351a6f056d9e5927d9afe0a0207'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0447_000-B.markers.yaml, hash: 'sha256:09487a15a252ddea8cbf47f6ff727c1a8046196bb979a5e29476c3b16f722803'}
+  - {seq: 1, role: markers, filename: assets/KR6v0447_001-B.markers.yaml, hash: 'sha256:5cce85d632a0d64afb45f7527f903704310ca70344375f69ed4a40b30a0272fb'}
+  - {seq: 2, role: markers, filename: assets/KR6v0447_002-B.markers.yaml, hash: 'sha256:2f70af03e4179d49b918b395a54a2db93189819c3a6fac3137a629262fbb819e'}
+  - {seq: 3, role: markers, filename: assets/KR6v0447_003-B.markers.yaml, hash: 'sha256:ef087b302c64bf6c61debded2ab728ee946b65849bee088e08766bc3ee054b27'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 26857
+  label: 106初學題額集上并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-2
+    span:
+    - body
+    - 416
+    - 416
+  label: 三國緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0447_B_001-mulu-3
+    span:
+    - body
+    - 15722
+    - 15722
+  label: 淨家題名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 24632
+  label: 初學題額集中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 華嚴宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-2
+    span:
+    - body
+    - 4386
+    - 4386
+  label: 天台宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-3
+    span:
+    - body
+    - 8955
+    - 8955
+  label: 三論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-4
+    span:
+    - body
+    - 12484
+    - 12484
+  label: 法相宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-5
+    span:
+    - body
+    - 23522
+    - 23522
+  label: 地論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0447_B_002-mulu-6
+    span:
+    - body
+    - 24223
+    - 24223
+  label: 攝論宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 28453
+  label: 初學題額集下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大乘律宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-2
+    span:
+    - body
+    - 2618
+    - 2618
+  label: 真言宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-3
+    span:
+    - body
+    - 6927
+    - 6927
+  label: 成實宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-4
+    span:
+    - body
+    - 7757
+    - 7757
+  label: 俱舍宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-5
+    span:
+    - body
+    - 18462
+    - 18462
+  label: 四分律
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0447_B_003-mulu-6
+    span:
+    - body
+    - 25322
+    - 25322
+  label: 題額集別紙
+  type: mulu
+  level: 1
+hash: sha256:1a1cb4307b61df927fc1e5fa69ca5a56b811897be0322359f571e698933ffb13
