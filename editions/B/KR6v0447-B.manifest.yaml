@@ -25,7 +25,7 @@ assets:
   - {seq: 3, filename: KR6v0447_003-B.yaml, hash: 'sha256:e2ac37ed2ac5dbda72008866adf04bbcf2194351a6f056d9e5927d9afe0a0207'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0447_000-B.markers.yaml, hash: 'sha256:09487a15a252ddea8cbf47f6ff727c1a8046196bb979a5e29476c3b16f722803'}
-  - {seq: 1, role: markers, filename: assets/KR6v0447_001-B.markers.yaml, hash: 'sha256:5cce85d632a0d64afb45f7527f903704310ca70344375f69ed4a40b30a0272fb'}
+  - {seq: 1, role: markers, filename: assets/KR6v0447_001-B.markers.yaml, hash: 'sha256:68de879caaefb65a0e449be32acd168b74d8db1a8fc91f56b6ad665c700c7ef0'}
   - {seq: 2, role: markers, filename: assets/KR6v0447_002-B.markers.yaml, hash: 'sha256:2f70af03e4179d49b918b395a54a2db93189819c3a6fac3137a629262fbb819e'}
   - {seq: 3, role: markers, filename: assets/KR6v0447_003-B.markers.yaml, hash: 'sha256:ef087b302c64bf6c61debded2ab728ee946b65849bee088e08766bc3ee054b27'}
 table_of_contents:
@@ -209,4 +209,4 @@ table_of_contents:
   label: 題額集別紙
   type: mulu
   level: 1
-hash: sha256:1a1cb4307b61df927fc1e5fa69ca5a56b811897be0322359f571e698933ffb13
+hash: sha256:f438ae146a72a0ad245cde928d339d732742f08b172a7e52769320326ef1ee10
